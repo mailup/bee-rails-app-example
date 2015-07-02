@@ -6,7 +6,7 @@ For details on how the plugin works, please consult the documentation:
 
 http://help.beefree.io/hc/en-us
 
-To request a beta account to try the BEE Plugin, head to [beefree.io](https://beefree.io) and click "Embed BEE in your app" in the top navigation bar
+To request a beta account to try the BEE Plugin, head to [beefree.io](https://beefree.io) and click "Embed BEE in your app" in the top navigation bar.
 
 
 # Getting Started
@@ -38,7 +38,7 @@ To see the editor go to:
 
 # Customization
 
-* You can select what template to load by editing one line. [See here](/app/controllers/bee_controller.rb#L3)
+* You can select what template to load by editing one line. [See here](/app/controllers/bee_controller.rb#L3).
 
-* You can set and customize all plugin callbacks and configuration by editing [bee.js](/app/assets/javascripts/bee.js)
+* You can set and customize all plugin callbacks and configuration by editing [bee.js](/app/assets/javascripts/bee.js).
 
